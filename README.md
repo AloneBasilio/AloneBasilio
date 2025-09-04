@@ -107,7 +107,7 @@
 
 ---
 
-### Stack and Language
+### My Stats
 <p>
     <img
         align="left"
@@ -124,10 +124,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonebasilio&show_icons=true&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=7"
     />
 </p>       
-          
-          
-          
-          
-          
-
           
