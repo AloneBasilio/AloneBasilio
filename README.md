@@ -1,4 +1,4 @@
-# Hi there, my name is Alone Basilio
+# Hi there, my name is Alone Eduardo Basilio
 
 **`I'm a Full Stack Develop`**
 
@@ -28,6 +28,14 @@
     width="45px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="C"
+    width="42px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
@@ -96,12 +104,21 @@
 
 <img 
     align="left"
-    alt="MongoDB"
+    alt="Git"
     width="40px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
-          
+
+<img 
+    align="left"
+    alt="Bash"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
+
+
 <br>
 <br>
 
