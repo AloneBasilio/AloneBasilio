@@ -9,7 +9,7 @@
 <img 
     align="left"
     alt="PHP"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -17,7 +17,7 @@
 <img 
     align="left"
     alt="Python"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -25,7 +25,7 @@
 <img 
     align="left"
     alt="JavaScript"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -33,7 +33,7 @@
 <img 
     align="left"
     alt="C"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -41,7 +41,7 @@
 <img 
     align="left"
     alt="Laravel"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
@@ -49,7 +49,7 @@
 <img 
     align="left"
     alt="VueJs"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
@@ -57,7 +57,7 @@
 <img 
     align="left"
     alt="Bootstrap"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -65,7 +65,7 @@
 <img 
     align="left"
     alt="Tailwindcss"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -73,7 +73,7 @@
 <img 
     align="left"
     alt="Docker"
-    width="44px"
+    width="42px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
