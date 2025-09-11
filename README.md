@@ -10,7 +10,7 @@
     align="left"
     alt="PHP"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
@@ -18,7 +18,7 @@
     align="left"
     alt="Python"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
@@ -26,7 +26,7 @@
     align="left"
     alt="JavaScript"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -34,7 +34,7 @@
     align="left"
     alt="C"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
@@ -42,7 +42,7 @@
     align="left"
     alt="Laravel"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
                    
@@ -50,7 +50,7 @@
     align="left"
     alt="VueJs"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 
@@ -58,7 +58,7 @@
     align="left"
     alt="Bootstrap"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
@@ -66,7 +66,7 @@
     align="left"
     alt="Tailwindcss"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
@@ -74,7 +74,7 @@
     align="left"
     alt="Docker"
     width="42px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
@@ -82,7 +82,7 @@
     align="left"
     alt="Linux"
     width="40px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
@@ -90,7 +90,7 @@
     align="left"
     alt="Mysql"
     width="40px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
 />
 
@@ -98,7 +98,7 @@
     align="left"
     alt="MongoDB"
     width="40px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 
@@ -106,7 +106,7 @@
     align="left"
     alt="Git"
     width="40px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
 
@@ -114,7 +114,7 @@
     align="left"
     alt="Bash"
     width="40px"
-    style="padding-right: 20px"
+    style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
 />
 
