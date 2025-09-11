@@ -110,13 +110,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
 
-<img 
+<!-- <img 
     align="left"
     alt="Bash"
     width="40px"
     style="padding-right: 18px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
-/>
+/> -->
 
 
 <br>
